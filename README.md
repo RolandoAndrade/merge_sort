@@ -1,5 +1,5 @@
 # merge_sort
-Aplicación de consola que organiza palabras en un archivo de texto haciendo uso de pibes no nominales
+Aplicación de consola que organiza palabras en un archivo de texto haciendo uso de pipes no nominales
 
 Instrucciones de uso
 
